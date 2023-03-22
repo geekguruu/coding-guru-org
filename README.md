@@ -1,36 +1,17 @@
-# coding-guru-org
+<h1 align="center">Hi 👋, We are Coding Guru</h1>
+<h3 align="center">Group of Talented Open Source Contributors....</h3>
 
-# Welcome to Open Source Contributions
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-guru-org&label=Profile%20views&color=0e75b6&style=flat" alt="coding-guru-org" /> </p>
 
-<p>List of actively participating individulas in open source contributions</p>
-
--   Add your own details to the contributor list
--   Make a Pull Request
--   [Steps to add yourself to the contributers list](https://github.com/coding-guru-org/coding-guru-org/blob/main/CONTRIBUTING.md)
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/">
-        <img height="50" src="https://avatars.githubusercontent.com/u/85627085?v=4"/>
-    </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-  
 
-## Contributors ✨
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://github.com/coding-guru-org"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/coding-guru-org" /></a><a href="https://ko-fi.com/https://github.com/coding-guru-org"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/coding-guru-org" /></a></p><br><br>
 
-Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-guru-org&show_icons=true&locale=en&layout=compact" alt="coding-guru-org" /></p>
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-    <tbody>
-        <tr>         
-            <td align="center">
-                <a href="https://github.com/hegdepavankumar
-                    <img src="https://github.com/hegdepavankumar" alt="Pavankumar Hegde"/>
-                    <br />
-                    <sub><b>Pavankumar Hegde</b></sub>
-                </a>
-            </td>
-  </tbody>
-  </table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-guru-org&show_icons=true&locale=en" alt="coding-guru-org" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-guru-org&" alt="coding-guru-org" /></p>
