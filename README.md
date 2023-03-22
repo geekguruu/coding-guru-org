@@ -6,7 +6,7 @@
 
 -   Add your own details to the contributor list
 -   Make a Pull Request
--   [Steps to add yourself to the contributers list](https://github.com/coding-guru-org/coding-guru-org/README.md)
+-   [Steps to add yourself to the contributers list](https://github.com/coding-guru-org/coding-guru-org/CONTRIBUTING.md)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/">
