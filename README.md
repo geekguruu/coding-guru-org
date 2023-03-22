@@ -27,7 +27,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>         
             <td align="center">
                 <a href="https://github.com/hegdepavankumar
-                    <img src="https://avatars.githubusercontent.com/u/85627085?v=4" alt="Pavankumar Hegde"/>
+                    <img src="https://github.com/hegdepavankumar" alt="Pavankumar Hegde"/>
                     <br />
                     <sub><b>Pavankumar Hegde</b></sub>
                 </a>
